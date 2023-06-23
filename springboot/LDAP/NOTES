@@ -1,1 +1,3 @@
-
+Example for an LDAP Project
+Here we have created a simple helloworld website initially without any security using springboot
+Created another secured Helloworld project in springboot using LDAP 
